@@ -1,3 +1,6 @@
+Nome: Eduardo Guedes Amorim
+R.A:: 191075
+
 # TechFlow Tasks
 
 Sistema web de gerenciamento de tarefas desenvolvido para a **TechFlow Solutions**
