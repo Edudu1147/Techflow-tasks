@@ -1,5 +1,7 @@
 Nome: Eduardo Guedes Amorim
-R.A:: 191075
+R.A: 191075
+Prof: Vitor Vieira
+link: https://github.com/Edudu1147/Techflow-tasks
 
 # TechFlow Tasks
 
